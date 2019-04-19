@@ -5,8 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-Return to [home](/). Download a pdf of my CV [here](/files/BradyRX_CV.pdf).
-
 # Riley X. Brady 
 Ph.D. Candidate in Atmospheric and Oceanic Sciences
 
@@ -27,7 +25,7 @@ __University of Colorado Boulder__ PhD Candidate in Atmospheric and Oceanic Scie
 __University of Colorado Boulder__ MS in Atmospheric and Oceanic Sciences
 
 `2016`
-__University of South Carolina__ BS in Marine Science (_emphasis in Physical Oceanography_). _Magna Cum Laude_, Honors College, Phi Beta Kappa, Leadership Distinction in Research.
+__University of South Carolina__ BS in Marine Science (_emphasis in Physical Oceanography_). _Magna Cum Laude_, Honors College, Phi Beta Kappa, Leadership Distinction in Research
 
 `2014`
 __Otto-Friedrich Universität Bamberg__ Minor in German
@@ -64,6 +62,86 @@ Dutta, S, __RX Brady__, ME Maltrud, PJ Wolfram, and R Bujack (2019), Leveraging 
 ## Funding
 
 Move funding stuff here. (SURF, Magellan, etc.)
+
+
+## Technical Skills
+
+### Computer Languages
+* Python
+* MATLAB
+* shell scripting
+* C/C++ (familiar)
+* OpenMP (familiar)
+* Javascript (familiar)
+* NCL (familiar)
+* R (familiar)
+
+### Other Tools 
+* ParaView
+* GNU Parallel
+* git
+* NCO
+* CDO
+
+### Design
+* HTML
+* CSS
+* LaTeX
+* Vector Graphics
+
+## Software
+
+### Core Developer
+[climpred](https://github.com/bradyrx/climpred): an object-oriented python package for analyzing decadal prediction ensemble output.
+
+[automate-mpas](https://github.com/bradyrx/automate-mpas): a collection of shell and python scripts to automate the process of setting up and running an MPAS simulation with Lagrangian particles.
+
+### Contributor
+[mpas-analysis](https://github.com/MPAS-Dev/MPAS-Analysis)
+
+[esmlab](https://github.com/NCAR/esmlab)
+
+## Awards
+
+### National
+`2016`
+Computational Science Graduate Fellowship, Department of Energy
+
+`2015`
+Barry M. Goldwater Scholarship, United States Congress
+
+`2014`
+Ernest F. Hollings Scholarship, National Oceanic and Atmospheric Administration
+
+### Institutional
+`2016`
+Algernon Sydney Sullivan Award, University of South Carolina (_3 recipients_)
+
+Outstanding Undergraduate in Marine Science, University of South Carolina (_2 recipients_)
+
+Outstanding Senior Award, University of South Carolina
+
+`2014`
+Magellan Research Scholar, South Carolina Office of Undergraduate Research
+
+`2012`
+Science Undergraduate Research Fellow, South Carolina Honors College
+
+McNair Scholar, University of South Carolina (Valued at $130,800)
+
+### Meetings
+
+`2016`
+1st Place, Oceanography, Earth System and Space Science Poster Conference
+
+`2015`
+Best Student Talk, Eastern Pacific Ocean Conference
+
+`2014`
+Outstanding Student Presentation Award, Ocean Sciences Meeting
+
+`2013`
+1st Place, Morning Oral STEM Session, South Carolina Discovery Day
 
 ## Presentations
 
@@ -109,71 +187,6 @@ _Consequences of changing high-pressure zones on future coastal upwelling_. Ocea
 `2019`
 _Introduction to Git Version Control_. ATOC Graduate Student Forum. (Boulder, CO)
 
-## Technical skills
-
-### Computer Languages
-* Python
-* MATLAB
-* shell scripting
-* C/C++ (familiar)
-* OpenMP (familiar)
-* Javascript (familiar)
-* NCL (familiar)
-
-### Data and Databases
-* Running ESM simulations
-* NetCDF
-* NCO
-* CDO
-
-### Design
-* ParaView
-* HTML
-* CSS
-* LaTeX
-* Vector Graphics
-
-## Awards
-
-### National
-`2016`
-Computational Science Graduate Fellowship, Department of Energy
-
-`2015`
-Barry M. Goldwater Scholarship, United States Congress
-
-`2014`
-Ernest F. Hollings Scholarship, National Oceanic and Atmospheric Administration
-
-### Institutional
-`2016`
-Algernon Sydney Sullivan Award, University of South Carolina (_3 recipients_)
-
-Outstanding Undergraduate in Marine Science, University of South Carolina (_2 recipients_)
-
-Outstanding Senior Award, University of South Carolina
-
-`2014`
-Magellan Research Scholar, South Carolina Office of Undergraduate Research
-
-`2012`
-Science Undergraduate Research Fellow, South Carolina Honors College
-
-McNair Scholar, University of South Carolina (Valued at $130,800)
-
-### Meetings
-
-`2016`
-1st Place, Oceanography, Earth System and Space Science Poster Conference
-
-`2015`
-Best Student Talk, Eastern Pacific Ocean Conference
-
-`2014`
-Outstanding Student Presentation Award, Ocean Sciences Meeting
-
-`2013`
-1st Place, Morning Oral STEM Session, South Carolina Discovery Day
 
 ## Summer Schools and Workshops
 
